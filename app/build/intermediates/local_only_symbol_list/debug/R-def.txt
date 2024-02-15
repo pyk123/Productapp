@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color backGround
+color black
+color white
+drawable apple
+drawable background_shade
+drawable ic_back
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id ivBack
+id ll_image
+id myimage
+id productlist
+id slider
+id toolBar
+id tvImage
+id tvProductPrice
+id tvProductdiscription
+id tvProductname
+layout activity_main
+layout activity_prodcut
+layout layout_productlist
+layout layout_toolbar_back
+layout slider_layout
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Productapp
+style Theme.Productapp
+xml backup_rules
+xml data_extraction_rules
